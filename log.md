@@ -11,3 +11,15 @@
 **Link(s) to work**
 1. [FCC Challenges](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements)
 
+# 100 Days Of Code - Log
+
+### Day 1: February 19, 2019 
+
+
+**Today's Progress**: Finished the HTML section of FCC.
+
+**Thoughts:** I look forward to the CSS section
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
