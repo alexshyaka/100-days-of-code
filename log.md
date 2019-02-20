@@ -13,7 +13,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 1: February 19, 2019 
+### Day 1: February 20, 2019 
 
 
 **Today's Progress**: Finished the HTML section of FCC.
