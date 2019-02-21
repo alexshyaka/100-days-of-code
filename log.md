@@ -23,3 +23,16 @@
 
 **Link(s) to work**
 NIL
+
+# 100 Days Of Code - Log
+
+### Day 2: February 21, 2019 
+
+
+**Today's Progress**: Finished Basic CSS section of FCC.
+
+**Thoughts:** I look forward to the Applied CSS section. I'm having a blast right. Things are still easy but I learnt a few things about CSS variables and inheritance and prescedence
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
