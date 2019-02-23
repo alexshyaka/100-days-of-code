@@ -36,3 +36,16 @@ NIL
 
 **Link(s) to work**
 NIL
+
+# 100 Days Of Code - Log
+
+### Day 3: February 23, 2019 
+
+
+**Today's Progress**: Finished Applied Visual Design of FCC.
+
+**Thoughts:** Learn't a lot about animation using keyframes and positioning of elements. I learn't quite a bit of what I did not know.
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
