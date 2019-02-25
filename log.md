@@ -49,3 +49,16 @@ NIL
 
 **Link(s) to work**
 NIL
+
+# 100 Days Of Code - Log
+
+### Day 3: February 23, 2019 
+
+
+**Today's Progress**: Finished Applied Accessibility.
+
+**Thoughts:** Enjoyed learning about HTML semantic tags and how they are important to screen readers. I have used HTML5 for a while now but had never paid attention to this before
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
