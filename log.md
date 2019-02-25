@@ -52,7 +52,7 @@ NIL
 
 # 100 Days Of Code - Log
 
-### Day 3: February 23, 2019 
+### Day 4: February 25, 2019 
 
 
 **Today's Progress**: Finished Applied Accessibility.
