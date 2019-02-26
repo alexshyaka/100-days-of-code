@@ -62,3 +62,15 @@ NIL
 
 **Link(s) to work**
 NIL
+# 100 Days Of Code - Log
+
+### Day 5: February 26, 2019 
+
+
+**Today's Progress**: Finished responsive design on FCC.
+
+**Thoughts:** Learned about viewport settings with CSS and media queries
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
