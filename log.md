@@ -74,3 +74,15 @@ NIL
 
 **Link(s) to work**
 NIL
+# 100 Days Of Code - Log
+
+### Day 6: February 27, 2019 
+
+
+**Today's Progress**: Finished Flexbox on FCC.
+
+**Thoughts:** Definitely the way to go for aligning elements on a web page
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
