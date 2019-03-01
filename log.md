@@ -86,3 +86,15 @@ NIL
 
 **Link(s) to work**
 NIL
+# 100 Days Of Code - Log
+
+### Day 7: March 1, 2019 
+
+
+**Today's Progress**: Finished CSS grid on FCC, looking forward to the challenges.
+
+**Thoughts:** Alot to learn and practice but definitely a good way to position elements
+**Link to work:** NIL
+
+**Link(s) to work**
+NIL
