@@ -101,10 +101,21 @@ NIL
 
 # 100 Days Of Code - Log
 
-### Day 8: March 7, 2019 
+### Day 8: March 6, 2019 
 
 
 **Today's Progress**: Coded part of the tribute page and enjoyed tinkering and thinking about designs and making them happen.
+
+**Thoughts:** Tinkering is the only way otherwise we never learn anything. Our brains are designed to learn better by application
+
+**Link(s) to work** https://github.com/alexshyaka/tributepage
+
+# 100 Days Of Code - Log
+
+### Day 9: March 7, 2019 
+
+
+**Today's Progress**: Coded part of the tribute page and added an image. I learnt alot working with images and CSS
 
 **Thoughts:** Tinkering is the only way otherwise we never learn anything. Our brains are designed to learn better by application
 
