@@ -107,7 +107,6 @@ NIL
 **Today's Progress**: Coded part of the tribute page and enjoyed tinkering and thinking about designs and making them happen.
 
 **Thoughts:** Tinkering is the only way otherwise we never learn anything. Our brains are designed to learn better by application
-**Link to work:** https://github.com/alexshyaka/tributepage
 
-**Link(s) to work**
-NIL
+**Link(s) to work** https://github.com/alexshyaka/tributepage
+
