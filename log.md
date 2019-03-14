@@ -120,4 +120,14 @@ NIL
 **Thoughts:** Tinkering is the only way otherwise we never learn anything. Our brains are designed to learn better by application
 
 **Link(s) to work** https://github.com/alexshyaka/tributepage
+# 100 Days Of Code - Log
+
+### Day 9: March 14, 2019 
+
+
+**Today's Progress**:Finished front-end challenge one
+
+**Thoughts:** Enjoyed tinkering with CSS and learning as I go along
+
+**Link(s) to work** https://github.com/alexshyaka/tributepage
 
