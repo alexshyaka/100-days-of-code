@@ -122,7 +122,7 @@ NIL
 **Link(s) to work** https://github.com/alexshyaka/tributepage
 # 100 Days Of Code - Log
 
-### Day 9: March 14, 2019 
+### Day 10: March 14, 2019 
 
 
 **Today's Progress**:Finished front-end challenge one
