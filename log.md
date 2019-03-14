@@ -129,5 +129,5 @@ NIL
 
 **Thoughts:** Enjoyed tinkering with CSS and learning as I go along
 
-**Link(s) to work** https://github.com/alexshyaka/tributepage
+**Link(s) to work** https://alexshyaka.github.io/tributepage/
 
